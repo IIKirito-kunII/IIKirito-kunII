@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IIKirito-kunII
+- 👋 Hi, I'm Lavish Kumar Varshney (IIKirito-kunII)
 - 👀 I’m interested in Azure Cloud Computing
 - 🌱 I’m currently learning Azure Cloud Computing
 - 💞️ I’m looking to collaborate on easy Projects
