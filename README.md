@@ -1,3 +1,5 @@
+<img align= "right" alt="coding" height="500" width="600" src ="https://media.licdn.com/dms/image/D4D22AQE6C6C48xUGvA/feedshare-shrink_800/0/1691894025424?e=1696464000&v=beta&t=k5n41euHBF4PIjLCkBwQ-RkcU-wsUTnRl8i5yD7utdE">
+
 - 👋 Hi, I'm Lavish Kumar Varshney (IIKirito-kunII)
 - 👀 I’m interested in Azure Cloud Computing
 - 🌱 I’m currently learning Azure Cloud Computing
