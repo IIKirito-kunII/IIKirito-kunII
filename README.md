@@ -1,14 +1,21 @@
-<img align= "right" alt="coding" width="400" src ="https://media.licdn.com/dms/image/D4D22AQE6C6C48xUGvA/feedshare-shrink_800/0/1691894025424?e=1696464000&v=beta&t=k5n41euHBF4PIjLCkBwQ-RkcU-wsUTnRl8i5yD7utdE">
+Let's learn and grow together in the exciting world of cloud computing! 🚀
 
-- 👋 Hi, I'm Lavish Kumar Varshney (IIKirito-kunII)
-- 👀 I’m interested in Azure Cloud Computing
-- 🌱 I’m currently learning Azure Cloud Computing
-- 💞️ I’m looking to collaborate on easy Projects
+<h1 align="center">| Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Lavish Kumar Varshney! |</h1>
+<h3 align="center">B-Tech Second Year Undergrad Coder</h3>
+
+<div><img src="https://i.pinimg.com/originals/24/bf/52/24bf52f1cbe34bc3193d5ab9e4ead801.gif" alt="coding" width="365" align="right" /></div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=IIKirito-KunII&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+
+- 🔭 I’m currently working on **My Skills**
+
+- 🌱 I’m currently learning **Reactjs ,Redux ,Nodejs**
+
+- 💬 Ask me about **Reactjs ,Javascript , Css, html ,python**
+
 - 📫 **Connect with Me:**
   - LinkedIn: [linkedin.com/in/lavish-kumar-varshney](https://www.linkedin.com/in/lavish-kumar-varshney)
   - Email: 226320046@gkv.ac.in
-
-Let's learn and grow together in the exciting world of cloud computing! 🚀
 
 <!---
 IIKirito-kunII/IIKirito-kunII is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
