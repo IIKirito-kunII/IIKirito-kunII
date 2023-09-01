@@ -17,7 +17,7 @@
   - Resume: 
 
 <kbd style="background-color: darkblue; color: white; padding: 8px 12px;"></kbd>
-<div align="left">
+<div align="left" width="50%">
 <h2>⚡ Technologies</h2> 
 
 ### Language
