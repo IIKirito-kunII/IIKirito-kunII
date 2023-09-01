@@ -17,8 +17,8 @@
   - Resume: 
 
 <kbd style="background-color: darkblue; color: white; padding: 8px 12px;"></kbd>
-<div align="left" width="50%">
-<h2>⚡ Technologies</h2> 
+
+##>⚡ Technologies
 
 ### Language
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -37,17 +37,15 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-green?style=flat-square&logo=PyCharm)
-</div>
-<div align="right">
-  <h2><img src="https://media.giphy.com/media/gJnjM552Kz2uUQvJEf/giphy.gif" width="40"> <b>GitHub Stats</b></h2> <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=IIKirito-KunII&show_icons=true&locale=en&layout=compact&theme=tokyonight" align="right"/>
-</div>
+</table>
 <h2><img src="https://media.giphy.com/media/gJnjM552Kz2uUQvJEf/giphy.gif" width="40"> <b>GitHub Stats</b></h2> <br/>
 <table>
 <tr>
 <td>
 <img src="https://github-readme-stats.vercel.app/api?username=IIKirito-KunII&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+</td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=IIKirito-KunII&show_icons=true&locale=en&layout=compact&theme=tokyonight" align="right"/>
 </td>
 </tr>
 </table>
