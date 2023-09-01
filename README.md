@@ -18,7 +18,7 @@
 
 <kbd style="background-color: darkblue; color: white; padding: 8px 12px;"></kbd>
 
-##>⚡ Technologies
+## ⚡ Technologies
 
 ### Language
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
