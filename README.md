@@ -18,7 +18,7 @@
 
 <kbd style="background-color: darkblue; color: white; padding: 8px 12px;"></kbd>
 
-## ⚡ Technologies <h2 align="right"><img src="https://media.giphy.com/media/gJnjM552Kz2uUQvJEf/giphy.gif" width="40"> <b>GitHub Stats</b></h2> <br/>
+<h2 align="left">⚡ Technologies</h2> <h2 align="right"><img src="https://media.giphy.com/media/gJnjM552Kz2uUQvJEf/giphy.gif" width="40"> <b>GitHub Stats</b></h2> <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IIKirito-KunII&show_icons=true&locale=en&layout=compact&theme=tokyonight" align="right"/>
 
