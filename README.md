@@ -1,5 +1,3 @@
-Let's learn and grow together in the exciting world of cloud computing! 🚀
-
 <h1 align="center">| Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Lavish Kumar Varshney! |</h1>
 <h3 align="center">B-Tech Second Year Undergrad Coder</h3>
 
@@ -16,7 +14,42 @@ Let's learn and grow together in the exciting world of cloud computing! 🚀
 - 📫 **Connect with Me:**
   - LinkedIn: [linkedin.com/in/lavish-kumar-varshney](https://www.linkedin.com/in/lavish-kumar-varshney)
   - Email: 226320046@gkv.ac.in
+  - Resume: 
 
+<kbd style="background-color: darkblue; color: white; padding: 8px 12px;"></kbd>
+
+
+## ⚡ Technologies
+### Language
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
+### Libraries & Framework
+[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://reactjs.org/)
+[![Redux](https://img.shields.io/badge/Redux%20-%23013243.svg?logo=redux&style=flat-square&logoColor=violet)](https://redux.org/)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://nodejs.org/)
+### Tools:
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&style=flat-square&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![PyCharm](https://img.shields.io/badge/-PyCharm-green?style=flat-square&logo=PyCharm)
+
+<h2><img src="https://media.giphy.com/media/gJnjM552Kz2uUQvJEf/giphy.gif" width="40"> <b>GitHub Stats</b></h2> <br/>
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=IIKirito-KunII&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=IIKirito-KunII&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</td>
+</tr>
+</table>
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IIKirito-KunII&theme=tokyonight" />
+</p>
 <!---
 IIKirito-kunII/IIKirito-kunII is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
