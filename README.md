@@ -21,8 +21,6 @@
 
 ## ⚡ Technologies
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=IIKirito-KunII&show_icons=true&locale=en&layout=compact&theme=tokyonight" align="right" margin-top="200px"/>
-
 ### Language
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -41,18 +39,20 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-green?style=flat-square&logo=PyCharm)
 
-</table>
 <h2><img src="https://media.giphy.com/media/gJnjM552Kz2uUQvJEf/giphy.gif" width="40"> <b>GitHub Stats</b></h2> <br/>
-<table>
+<table border="10px solid black">
 <tr>
 <td>
 <img src="https://github-readme-stats.vercel.app/api?username=IIKirito-KunII&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
 </td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=IIKirito-KunII&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
+</td>
+<td>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IIKirito-KunII&theme=tokyonight" />
 </td>
 </tr>
 </table>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IIKirito-KunII&theme=tokyonight" />
 </p>
 <!---
 IIKirito-kunII/IIKirito-kunII is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
