@@ -9,12 +9,13 @@
 
 - 🌱 I’m currently learning **Reactjs ,Redux ,Nodejs**
 
-- 💬 Ask me about **Reactjs ,Javascript , Css, html ,python**
+- 💬 Ask me about **Reactjs ,Javascript , Css, html ,Python**
 
 - 📫 **Connect with Me:**
   - LinkedIn: [linkedin.com/in/lavish-kumar-varshney](https://www.linkedin.com/in/lavish-kumar-varshney)
   - Email: 226320046@gkv.ac.in
-  - Resume: 
+  
+- Resume: 
 
 <kbd style="background-color: darkblue; color: white; padding: 8px 12px;"></kbd>
 
