@@ -43,17 +43,15 @@
 <table border="10px solid black">
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=IIKirito-KunII&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=IIKirito-KunII&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=dark"/>
 </td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=IIKirito-KunII&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=IIKirito-KunII&show_icons=true&locale=en&layout=compact&theme=dark"/>
 </td>
 <td>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IIKirito-KunII&theme=tokyonight" />
+<img width="355px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IIKirito-KunII&theme=dark" />
 </td>
 </tr>
 </table>
-<p align="center">
-</p>
 <!---
 IIKirito-kunII/IIKirito-kunII is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
