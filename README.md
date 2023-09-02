@@ -17,7 +17,7 @@
   
 - Resume:
 
-<div align="center"><kbd style="background-color: darkblue; color: white;">[am Interested in Leaning Everything about Linux os systems and Azure Cloud Computing] [u_u] [Lets connect to gain skills Together] </kbd></div>
+<div align="center"><kbd style="background-color: darkblue; color: white;">[am Interested in Leaning Everything about Linux os systems and Azure Cloud Computing][u_u][Lets connect to gain skills Together] </kbd></div>
 
 ## ⚡ Technologies
 
