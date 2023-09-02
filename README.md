@@ -17,7 +17,7 @@
   
 - Resume: 
 
-<kbd style="background-color: darkblue; color: white; padding: 8px 12px;"></kbd>
+<kbd style="background-color: darkblue; color: white;;">[ I am interested in Leaning Everything about Linux os systems and Azure Cloud Computing ] [u_u] [ Lets connect to gain skills Together ] </kbd>
 
 ## ⚡ Technologies
 
@@ -48,7 +48,7 @@
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=IIKirito-KunII&show_icons=true&locale=en&layout=compact&theme=dark"/>
 </td>
 <td>
-<img width="355px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IIKirito-KunII&theme=dark" />
+<img width="355px" src="https://github-readme-streak-stats.herokuapp.com/?user=IIKirito-KunII&theme=dark" />
 </td>
 </tr>
 </table>
