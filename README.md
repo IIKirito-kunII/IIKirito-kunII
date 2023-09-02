@@ -21,6 +21,8 @@
 
 ## ⚡ Technologies
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=IIKirito-KunII&show_icons=true&locale=en&layout=compact&theme=tokyonight" align="right" margin-top="200px"/>
+
 ### Language
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -46,7 +48,6 @@
 <td>
 <img src="https://github-readme-stats.vercel.app/api?username=IIKirito-KunII&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
 </td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=IIKirito-KunII&show_icons=true&locale=en&layout=compact&theme=tokyonight" align="right"/>
 </td>
 </tr>
 </table>
