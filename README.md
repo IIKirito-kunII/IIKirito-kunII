@@ -15,9 +15,9 @@
   - LinkedIn: [linkedin.com/in/lavish-kumar-varshney](https://www.linkedin.com/in/lavish-kumar-varshney)
   - Email: 226320046@gkv.ac.in
   
-- Resume: 
+- Resume:
 
-<kbd style="background-color: darkblue; color: white;;">[ I am interested in Leaning Everything about Linux os systems and Azure Cloud Computing ] [u_u] [ Lets connect to gain skills Together ] </kbd>
+<div align="center"><kbd style="background-color: darkblue; color: white;">[am Interested in Leaning Everything about Linux os systems and Azure Cloud Computing] [u_u] [Lets connect to gain skills Together] </kbd></div>
 
 ## ⚡ Technologies
 
