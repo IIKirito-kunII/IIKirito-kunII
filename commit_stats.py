@@ -3,7 +3,7 @@ import datetime
 
 g = Github("YOUR_PERSONAL_ACCESS_TOKEN")
 
-repo = g.get_repo("your-username/your-repo")
+repo = g.get_repo("IIKirito-kunII/IIKirito-kunII.git")
 
 commits = repo.get_commits(since=datetime.datetime.now() - datetime.timedelta(days=30))
 
