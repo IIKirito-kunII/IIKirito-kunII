@@ -42,7 +42,7 @@
 <table border="10px solid black">
 <tr>
 <td>
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=IIKirito-KunII&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=dark"/>
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=IIKirito-kunII&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=dark"/>
 </td>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=IIKirito-KunII&show_icons=true&locale=en&layout=compact&theme=dark"/>
 </td>
