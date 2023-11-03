@@ -12,7 +12,7 @@
 - 💬 Ask me about **Reactjs ,Javascript , Css, html ,Python**
 
 - 📫 **Connect with Me:**
-  - LinkedIn: [linkedin.com/in/lavish-kumar-varshney](https://www.linkedin.com/in/lavish-kumar-varshney)
+  - LinkedIn: [linkedin.com/in/lavish-kumar-varshney](https://www.linkedin.com/in/lavish-kumar-varshney-32b141222/)
   - Email: 226320046@gkv.ac.in
   
 
