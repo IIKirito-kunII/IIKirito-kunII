@@ -1,5 +1,5 @@
 <h1 align="center">| Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Lavish Kumar Varshney! |</h1>
-<h3 align="center">B-Tech Third Year Undergrad Coder</h3>
+<h3 align="center">B-Tech Fourth Year Coder</h3>
 
 <div><img src="https://i.pinimg.com/originals/24/bf/52/24bf52f1cbe34bc3193d5ab9e4ead801.gif" alt="coding" width="365" align="right" /></div>
 
