@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Reactjs ,Redux ,Nodejs**
 
-- 💬 Ask me about **Reactjs, Css, html ,Python**
+- 💬 Ask me about **Reactjs, javascript, Css, html ,Python**
 
 - 📫 **Connect with Me:**
   - LinkedIn: [linkedin.com/in/lavish-kumar-varshney](https://www.linkedin.com/in/lavish-kumar-varshney-32b141222/)
