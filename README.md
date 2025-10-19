@@ -13,7 +13,7 @@
 
 - 📫 **Connect with Me:**
   - LinkedIn: [linkedin.com/in/lavish-kumar-varshney](https://www.linkedin.com/in/lavish-kumar-varshney-32b141222/)
-  - Email: 226320046@gkv.ac.in
+  - Email: lavishkumarvarshney@gmail.com
   
 
 <div align="center"><kbd style="background-color: darkblue; color: white;">[Am Interested in Leaning Everything about Linux OS and Azure Cloud Computing] [>_<] [Lets connect to gain skills Together]</kbd></div>
