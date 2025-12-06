@@ -1,61 +1,56 @@
-<h1 align="center">| Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Lavish Kumar Varshney! |</h1>
-<h3 align="center">B-Tech Fourth Year Coder</h3>
+<h2> Hi, I'm Lavish Kumar Varshney! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://i.pinimg.com/originals/24/bf/52/24bf52f1cbe34bc3193d5ab9e4ead801.gif" width="230">
+<p>
+  <em>
+    MERN STACK Developer<br/>
+    Passionate about building smooth animations, clean UI, and modern React applications.
+  </em>
+</p>
 
-<div><img src="https://i.pinimg.com/originals/24/bf/52/24bf52f1cbe34bc3193d5ab9e4ead801.gif" alt="coding" width="365" align="right" /></div>
+[![Linkedin: lavishkumarvarshney](https://img.shields.io/badge/-lavishkumarvarshney-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lavish-kumar-varshney-32b141222/)
+[![GitHub followers](https://img.shields.io/github/followers/lavishkumarvarshney?label=follow&style=social)](https://github.com/IIKirito-kunII)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=IIKirito-KunII&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-- 🔭 I’m currently working on **My Skills**
+```javascript
+const lavish = {
+  pronouns: "he/him",
+  frontend: ["JS", "TS", "React.js", "HTML5"],
+  backend: ["Node.js", "Express.js", "Python"],
+  database: ["MongoDB", "Supabase"],
+  styling: ["CSS3", "Tailwind CSS"],
+  animation: ["GSAP"],
+  automation: ["n8n"],
 
-- 🌱 I’m currently learning **Reactjs ,Redux ,Nodejs**
-
-- 💬 Ask me about **Reactjs, javascript, Css, html ,Python**
-
-- 📫 **Connect with Me:**
-  - LinkedIn: [linkedin.com/in/lavish-kumar-varshney](https://www.linkedin.com/in/lavish-kumar-varshney-32b141222/)
-  - Email: lavishkumarvarshney@gmail.com
-  
-
-<div align="center"><kbd style="background-color: darkblue; color: white;">[Am Interested in Leaning Everything about Linux OS and Azure Cloud Computing] [>_<] [Lets connect to gain skills Together]</kbd></div>
-
-## ⚡ Technologies
-
-### Language
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-
-### Libraries & Framework
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://reactjs.org/)
-[![Redux](https://img.shields.io/badge/Redux%20-%23013243.svg?logo=redux&style=flat-square&logoColor=violet)](https://redux.org/)
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://nodejs.org/)
-### Tools:
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&style=flat-square&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![PyCharm](https://img.shields.io/badge/-PyCharm-green?style=flat-square&logo=PyCharm)
-
-<h2><img src="https://media.giphy.com/media/gJnjM552Kz2uUQvJEf/giphy.gif" width="40"> <b>GitHub Stats</b></h2> <br/>
-<table border="10px solid black">
-<tr>
-<td>
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=IIKirito-kunII&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=dark"/>
-</td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=IIKirito-KunII&show_icons=true&locale=en&layout=compact&theme=dark"/>
-</td>
-<td>
-<img width="355px" src="https://github-readme-streak-stats.herokuapp.com/?user=IIKirito-KunII&theme=dark" />
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/IIKirito-KunII/IIKirito-KunII/output/github-contribution-grid-snake.svg" />
-</div>
-<!---
-IIKirito-kunII/IIKirito-kunII is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  projects: {
+    "📁 Medical System": ["PDF uploads", "Auth", "Summaries", "Live ↗", "GitHub ↗"],
+    "💡 Luminous Quotes": ["Lamp anim", "GSAP", "Quotes", "Live ↗", "GitHub ↗"],
+    "🧩 Leads Tracker": ["Snippets", "URLs", "Shortcuts", "MV3", "GitHub ↗"]
+  }
+}
+```
+### 📂 Projects
+<table>
+  <tr>
+    <th>Project</th> 
+    <th>Tech</th>
+    <th>Highlights</th>
+    <th>Links</th> 
+  </tr> 
+  <tr> 
+    <td>📁 <b>Medical System</b></td> 
+    <td>React, Node, Express, Firebase, Tailwind</td> 
+    <td>PDF uploads • Auth • Summaries</td>
+    <td> <a href="https://medical-frontend-three.vercel.app" target="_blank">Live ↗</a> | <a href="https://github.com/IIKirito-kunII/medical-frontend" target="_blank">GitHub ↗</a> </td> 
+  </tr> 
+  <tr> 
+    <td>💡 <b>Luminous Quotes</b></td> 
+    <td>React, GSAP, CSS Vars</td> 
+    <td>Lamp anim • Quotes • Smooth GSAP </td>
+    <td> <a href="https://lampquote.netlify.app" target="_blank">Live ↗</a> | <a href="https://github.com/IIKirito-kunII/lamp-quote" target="_blank">GitHub ↗</a> </td> 
+  </tr> 
+  <tr> 
+    <td>🧩 <b>Leads Tracker Extension</b></td> 
+    <td>JavaScript, HTML5, CSS, Chrome APIs</td> 
+    <td>Snippets • URLs • Shortcuts • MV3</td> 
+    <td> <a href="https://github.com/IIKirito-kunII/leads-tracker-extension" target="_blank">GitHub ↗</a> </td> </tr> </table>
