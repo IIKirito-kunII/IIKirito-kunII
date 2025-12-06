@@ -29,7 +29,7 @@ const lavish = {
 | Project | Tech | Highlights | Links |
 |--------|------|------------|--------|
 | **📁 Medical System** | React, Node, Express, Tailwind |PDF Uploads • Auth • AI Summary(Groq)| [Live](https://medical-frontend-three.vercel.app) • [GitHub](https://github.com/IIKirito-kunII/medical-frontend) |
-| **💡 Luminous Quotes** | React, GSAP, CSS Vars | Lamp animation • API Quotes • Smooth GSAP | [Live](https://lampquote.netlify.app) • [GitHub](https://github.com/IIKirito-kunII/lamp-quote) |
+| **💡 Luminous Quotes** | React, GSAP, CSS Vars | Lamp animation • API Quotes | [Live](https://lampquote.netlify.app) • [GitHub](https://github.com/IIKirito-kunII/lamp-quote) |
 | **🧩 Leads Tracker** | JavaScript, HTML5, CSS Chrome APIs | Snippets • URLs • Shortcuts • MV3 | [GitHub](https://github.com/IIKirito-kunII/leads-tracker-extension) |
 
 ### 📫 Like to meet me?
