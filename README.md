@@ -3,7 +3,8 @@
 <p>
   <em>
     MERN STACK Developer<br/>
-    Passionate about building smooth animations, clean UI, and modern React applications.
+    Passionate about building smooth animations, clean UI, and modern React applications.<br/>
+    I love turning ideas into fast, interactive, and visually appealing experiences.
   </em>
 </p>
 
@@ -21,36 +22,12 @@ const lavish = {
   styling: ["CSS3", "Tailwind CSS"],
   animation: ["GSAP"],
   automation: ["n8n"],
-
-  projects: {
-    "📁 Medical System": ["PDF uploads", "Auth", "Summaries", "Live ↗", "GitHub ↗"],
-    "💡 Luminous Quotes": ["Lamp anim", "GSAP", "Quotes", "Live ↗", "GitHub ↗"],
-    "🧩 Leads Tracker": ["Snippets", "URLs", "Shortcuts", "MV3", "GitHub ↗"]
-  }
 }
 ```
 ### 📂 Projects
-<table>
-  <tr>
-    <th>Project</th> 
-    <th>Tech</th>
-    <th>Highlights</th>
-    <th>Links</th> 
-  </tr> 
-  <tr> 
-    <td>📁 <b>Medical System</b></td> 
-    <td>React, Node, Express, Firebase, Tailwind</td> 
-    <td>PDF uploads • Auth • Summaries</td>
-    <td> <a href="https://medical-frontend-three.vercel.app" target="_blank">Live ↗</a> | <a href="https://github.com/IIKirito-kunII/medical-frontend" target="_blank">GitHub ↗</a> </td> 
-  </tr> 
-  <tr> 
-    <td>💡 <b>Luminous Quotes</b></td> 
-    <td>React, GSAP, CSS Vars</td> 
-    <td>Lamp anim • Quotes • Smooth GSAP </td>
-    <td> <a href="https://lampquote.netlify.app" target="_blank">Live ↗</a> | <a href="https://github.com/IIKirito-kunII/lamp-quote" target="_blank">GitHub ↗</a> </td> 
-  </tr> 
-  <tr> 
-    <td>🧩 <b>Leads Tracker Extension</b></td> 
-    <td>JavaScript, HTML5, CSS, Chrome APIs</td> 
-    <td>Snippets • URLs • Shortcuts • MV3</td> 
-    <td> <a href="https://github.com/IIKirito-kunII/leads-tracker-extension" target="_blank">GitHub ↗</a> </td> </tr> </table>
+| Project | Tech | Highlights | Links |
+|--------|------|------------|--------|
+| **📁 Medical System** | React, Node, Express, Firebase, Tailwind |PDF Uploads • Firebase Auth • AI Summary(Groq)| [Live](https://medical-frontend-three.vercel.app) • [GitHub](https://github.com/IIKirito-kunII/medical-frontend) |
+| **💡 Luminous Quotes** | React, GSAP, CSS Vars | Lamp animation • API Quotes • Smooth GSAP | [Live](https://lampquote.netlify.app) • [GitHub](https://github.com/IIKirito-kunII/lamp-quote) |
+| **🧩 Leads Tracker** | JavaScript, HTML5, CSS Chrome APIs | Snippets • URLs • Shortcuts • MV3 | [GitHub](https://github.com/IIKirito-kunII/leads-tracker-extension) |
+
