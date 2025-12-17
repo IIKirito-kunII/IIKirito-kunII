@@ -1,7 +1,7 @@
 <h2> Hi, I'm Lavish Kumar Varshney! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://i.pinimg.com/originals/24/bf/52/24bf52f1cbe34bc3193d5ab9e4ead801.gif" width="230">
 <p>
-    [ MERN STACK Developer ]<br/>
+    [ MERN STACK Developer ] B-Tech CSE 4th Year <br/>
   <em>
     Passionate about building smooth animations, clean UI, and modern React applications.<br/>
     I love turning ideas into fast, interactive, and visually appealing experiences.
