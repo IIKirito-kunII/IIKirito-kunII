@@ -21,7 +21,7 @@ const lavish = {
   backend: ["Node.js", "Express.js", "Python"],
   database: ["MongoDB", "Supabase"],
   styling: ["CSS3", "Tailwind CSS"],
-  animation: ["GSAP"],
+  animation: ["GSAP", "Motion"],
   automation: ["n8n"],
 }
 ```
